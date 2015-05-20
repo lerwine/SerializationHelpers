@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfKeyValueOfanyTypeanyType xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+  <KeyValueOfanyTypeanyType>
+    <Key xmlns:d3p1="http://www.w3.org/2001/XMLSchema" i:type="d3p1:string">second</Key>
+    <Value xmlns:d3p1="http://www.w3.org/2001/XMLSchema" i:type="d3p1:int">2</Value>
+  </KeyValueOfanyTypeanyType>
+  <KeyValueOfanyTypeanyType>
+    <Key xmlns:d3p1="http://www.w3.org/2001/XMLSchema" i:type="d3p1:string">first</Key>
+    <Value xmlns:d3p1="http://www.w3.org/2001/XMLSchema" i:type="d3p1:string">one</Value>
+  </KeyValueOfanyTypeanyType>
+  <KeyValueOfanyTypeanyType>
+    <Key xmlns:d3p1="http://www.w3.org/2001/XMLSchema" i:type="d3p1:int">3</Key>
+    <Value xmlns:d3p1="http://www.w3.org/2001/XMLSchema" i:type="d3p1:double">3</Value>
+  </KeyValueOfanyTypeanyType>
+</ArrayOfKeyValueOfanyTypeanyType>

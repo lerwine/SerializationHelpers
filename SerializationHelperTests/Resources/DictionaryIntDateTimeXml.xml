@@ -1,0 +1,14 @@
+﻿<ArrayOfKeyValueOfintdateTime xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+  <KeyValueOfintdateTime>
+    <Key>-1</Key>
+    <Value>0001-01-01T00:00:00</Value>
+  </KeyValueOfintdateTime>
+  <KeyValueOfintdateTime>
+    <Key>0</Key>
+    <Value>2015-05-18T21:56:32.3637023-04:00</Value>
+  </KeyValueOfintdateTime>
+  <KeyValueOfintdateTime>
+    <Key>1</Key>
+    <Value>9999-12-31T23:59:59.9999999</Value>
+  </KeyValueOfintdateTime>
+</ArrayOfKeyValueOfintdateTime>
